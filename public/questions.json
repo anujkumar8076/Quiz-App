@@ -1,0 +1,37 @@
+[
+  {
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What is the capital of France?",
+    "correct": "Paris",
+    "incorrect": ["Lyon", "Marseille", "Nice"]
+  },
+  {
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "What gas do plants primarily absorb for photosynthesis?",
+    "correct": "Carbon Dioxide",
+    "incorrect": ["Oxygen", "Nitrogen", "Hydrogen"]
+  },
+  {
+    "category": "Computers",
+    "difficulty": "medium",
+    "question": "Which HTML tag is used to create a hyperlink?",
+    "correct": "<a>",
+    "incorrect": ["<link>", "<href>", "<hyper>"]
+  },
+  {
+    "category": "Mathematics",
+    "difficulty": "easy",
+    "question": "What is 12 × 8?",
+    "correct": "96",
+    "incorrect": ["86", "88", "94"]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Which is the largest ocean on Earth?",
+    "correct": "Pacific Ocean",
+    "incorrect": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean"]
+  }
+]
